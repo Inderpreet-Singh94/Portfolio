@@ -3,6 +3,7 @@
     
   </head>
   <body>
+    <img src="image/photo.jpeg" alt="profile photo">
     <h6>Inderpreet Singh</h6>
     <h6>(514)910-9179</h6>
     <h6>preetindr4@gmail.com</h6>
