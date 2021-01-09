@@ -3,7 +3,7 @@
     
   </head>
   <body>
-    <img src="images/photo.jpeg" alt="profile photo" width="500" height="700">
+    <img src="images/photo.jpeg" alt="profile photo" width="200" height="300">
     <h6>Inderpreet Singh</h6>
     <h6>(514)910-9179</h6>
     <h6>preetindr4@gmail.com</h6>
