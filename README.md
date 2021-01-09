@@ -10,7 +10,7 @@
     <h6><a href="https://www.linkedin.com/in/inderpreet-singh94/">https://www.linkedin.com/in/inderpreet-singh94/</a></h6>
   
     
-      <p> Inder project</p>
+      <h1> Project</h1>
     
   </body>
 </html>
